@@ -1,0 +1,8 @@
+{
+  "name": "Manovox",
+  "description": "An AI-powered sign language recognition system that translates hand gestures into text and audible speech in real time using Gemini's advanced vision capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
